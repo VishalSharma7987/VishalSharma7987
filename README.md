@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer • React • JavaScript • AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps;AI Developer;AI Agents:AI Boats" />
 </p>
 
 ---
