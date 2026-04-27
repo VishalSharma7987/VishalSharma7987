@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
-<h3 align="center">Frontend Developer • React • JavaScript</h3>
+<h3 align="center">Frontend Developer • React • JavaScript • AI Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=6366F1&center=true&vCenter=true&lines=Frontend+Developer;React+Enthusiast;Building+Modern+Web+Apps" />
@@ -9,9 +9,9 @@
 
 ## 🚀 About Me
 
-* 🔭 Currently building **React projects**
+* 🔭 Currently building **React projects , AI Boats Agents**
 * 🌱 Learning **Full Stack Development**
-* 💬 Ask me about **JavaScript, React, UI/UX**
+* 💬 Ask me about **JavaScript, React, UI/UX , AI Agents **
 
 ---
 
